@@ -1,13 +1,13 @@
 # M5Stack Tough (ESP-32) Sailing Instruments Display and Autopilot Control
 
-M5Stack Tough (ESP-32) Sailing Instruments Display and Autopilot Control Arduino sketches
+M5Stack Tough (ESP-32) Camper Instruments Display and Autopilot Control Arduino sketches
 
 With LVGL UI
 
-Mostly oriented for boating projects (can be interesting to RV and off-grid living users,
+Mostly oriented for camper van projects (can be interesting to RV and off-grid living users,
 or Arduino and esp32 or other microcontroller enthusiasts and hobbyists)
 
-## Set up on a boat
+## Set up
 
 * Turn on your boat instruments
 * Boot your boat computer with SignalK. Make sure it is accessible on your local boat Wi-Fi.
